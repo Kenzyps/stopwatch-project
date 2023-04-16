@@ -31,6 +31,17 @@
     color: #172953;
     min-width: 90px;
 }
+.timeMark{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    color: #7b0000;
+    min-width: 90px;
+}
+#millisecondsMark{
+    font-size: 30px;
+}
 .separator{
     font-size: 60px;
     padding: 0 10px;
